@@ -7,4 +7,4 @@ KAC and Noura AlMansouri have downloaded the University of Guleph ONT demuxxer. 
 | Bioinformatic tool    | Purpose |
 | -------- | ------- |
 | seqtk  | "stuff here"   |
-
+| cutadapt  | Demuxing and filtering   |
