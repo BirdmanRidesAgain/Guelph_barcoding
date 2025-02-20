@@ -8,3 +8,4 @@ KAC and Noura AlMansouri have downloaded the University of Guleph ONT demuxxer. 
 | -------- | ------- |
 | seqtk  | "stuff here"   |
 | cutadapt  | Demuxing and filtering   |
+| R  | "stuff here"   |
